@@ -1,6 +1,6 @@
 let IS_PROD = true;
 const server = IS_PROD ?
-    "https://apnacollegebackend.onrender.com" :
+    "https://vercel-backend-cb2x.onrender.com" :
 
     "http://localhost:8000"
 
